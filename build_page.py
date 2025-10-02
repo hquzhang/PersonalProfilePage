@@ -19,19 +19,19 @@ def main():
                 "url": "https://www.paypal.com/c2/webapps/mpp/account-selection?locale.x=zh_C2&pid=282797374&dclid=CKmqnKK8hZADFQ-I6QUdtGo5Jg&gad_source=7"
             },
             {
-                "name": "项目一",
+                "name": "AI 根据项目需求生成对应原型",
                 "url": "https://github.com/hquzhang/X.Lab.Homework.Lesson1"
             },
             {
-                "name": "项目二",
+                "name": "AI 根据需求及提示词完成对应设计开发",
                 "url": "https://github.com/hquzhang/X.Lab.Homework.Lesson2"
             },
             {
-                "name": "项目三",
+                "name": "AI 根据需求完成前后端具体功能开发（后端Python + 数据库Sqlite）",
                 "url": "https://github.com/hquzhang/X.Lab.Homework.Lesson3"
             },
             {
-                "name": "项目四",
+                "name": "AI 根据需求完成前后端具体功能开发（后端Java + 数据库Mysql）",
                 "url": "https://github.com/hquzhang/X.Lab.Homework.Lesson4"
             }
         ],
